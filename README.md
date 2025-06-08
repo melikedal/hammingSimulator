@@ -15,7 +15,7 @@ Bu proje, Java Swing kullanılarak geliştirilmiş bir **Hamming SEC-DED (Single
 
 ## 📽️ Demo Videosu
 
-👉 [Projeyi YouTube'da izleyin!]([https://www.youtube.com/watch?v=abcd1234efg](https://youtu.be/m-9fsMmgL10))
+👉 [Projeyi YouTube'da izleyin!]([https://www.youtube.com/watch?v=abcd1234efg](https://youtu.be/m-9fsMmgL10)
 
 
 
